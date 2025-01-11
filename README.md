@@ -24,9 +24,27 @@ As a new user, I want to be able to manage stress, so I can feel more calm day t
 As the site owner, I want to teach people about habits so that mroe users download the habit tracker.
 As the site owner, I want the design of the site to be simple, so can help more people improve their mental health.
 
+Colour palette:
+
+* CSS HEX */
+--tan: #d4b293;
+--hurricane: #8b817e;
+--blue-dianne: #1b3842;
+--scarpa-flow: #59595b;
+--pale-sky: #637883;
+--bunker: #070c0e;
+--gray-chateau: #97a1ac;
+--shuttle-gray: #5a6a7d;
+--hit-gray: #a1adb0;
+--paarl: #ae5427;
 
 
 
+What I included:
+
+Future additions:
+
+Known bugs:
 
 
 
