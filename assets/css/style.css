@@ -11,10 +11,15 @@
 }
 
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
     font-family: var(--secondary-font);
 }
 
+h4 {
+    font-family: var(--primary-font);
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
 
 
 p {
@@ -53,14 +58,15 @@ body {
 }
 
 
-#header-text{
+#header-text, #tracker {
     background-color: rgba(187, 225, 241, 0.5);
     color: #3b4856;
 }
 
-.white {
-    background-color: white;
+#intro, #links {
+    margin: 40px 12px;
 }
+
 
 
 /* Media queries */
