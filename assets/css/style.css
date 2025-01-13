@@ -67,6 +67,10 @@ body {
     margin: 40px 12px;
 }
 
+.form-label, .form-control, .btn {
+    font-family: var(--primary-font);
+}
+
 
 
 /* Media queries */
