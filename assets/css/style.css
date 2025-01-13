@@ -20,8 +20,6 @@ h1, h2, h3 {
 p {
     font-family: var(--primary-font);
     font-size: large;
-    padding: 35px 25px;
-    margin: 15px 50px;
 }
 
 body {
