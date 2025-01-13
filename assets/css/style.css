@@ -15,8 +15,11 @@ h1, h2, h3 {
     font-family: var(--secondary-font);
 }
 
+
+
 p {
     font-family: var(--primary-font);
+    font-size: large;
     padding: 35px 25px;
     margin: 15px 50px;
 }
@@ -44,7 +47,13 @@ body {
 }
 
 
+#tagline {
+    font-family: var(--primary-font)
+}
 
+#intro {
+    border: #3b4856;
+}
 
 #header-text{
     background-color: rgba(187, 225, 241, 0.5);
