@@ -16,7 +16,7 @@ h1 {
 }
 
 body {
-    background-color: #a1adb0;
+    background-color: #a0bddc;
 }
 
 #navbar {
@@ -27,10 +27,16 @@ body {
     background-image: url(../images/heroimage.jpg);
       /* Set a specific height */
   height: 50%;
+  width: 100%;
   /* Position and center the image to scale nicely on all screens */
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+
+#header-text{
+    background-color: rgba(121, 203, 238, 0.5);
+    color: #3b4856;
 }
 
