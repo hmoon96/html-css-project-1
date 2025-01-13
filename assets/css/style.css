@@ -11,7 +11,7 @@
 }
 
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: var(--secondary-font);
 }
 
@@ -20,11 +20,14 @@ h1, h2, h3 {
 p {
     font-family: var(--primary-font);
     font-size: large;
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
 
 body {
     background-color: #a0bddc;
 }
+
 
 #navbar {
     background-color: #1b3842;
@@ -49,12 +52,48 @@ body {
     font-family: var(--primary-font)
 }
 
-#intro {
-    border: #3b4856;
-}
 
 #header-text{
     background-color: rgba(187, 225, 241, 0.5);
     color: #3b4856;
 }
 
+.white {
+    background-color: white;
+}
+
+
+/* Media queries */
+
+
+/* Medium devices (tablets, 768px and up) */
+@media screen and (min-width: 768px) {
+    /* Make all service cards the same height for consistency */
+    .card-body {
+        min-height: 191px;
+    }
+}
+
+/* Large devices (small laptops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /* Make all service cards the same height for consistency */
+    .card-body {
+        min-height: auto;
+    }
+}
+
+/* xl devices (large desktops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    /* make all service cards the same height for consistency */
+    .card-body {
+        min-height: 220px;
+    }
+}
+
+/* xxl devices (larger desktops, 1400px and up) */
+@media screen and (min-width: 1400px) {
+    /* make all service cards the same height for consistency */
+    .card-body {
+        min-height: 195px;
+    }
+}
