@@ -34,6 +34,7 @@ Colour palette:
 rgba(187, 225, 241, 0.5) Header text and Habit Tracker box colour
 
 Current features:
+
 At the top, I included a navbar to help the user to navigate easily through the webpage. Each section has a link to the correct part of the page, and this works on all screen sizes. 
 
 I included a hero image of a some calming scenery. As the aim of the site it to try and be supportive, this could be calming for the user and set a nice tone for the rest of the webpage. The heading font was Petit Formal Script, a calligraphy style font. As fonts like this tend to be more personable and casual, I selected this as I wanted it to the user to feel at ease and in safe hands, especially as this is a self help website. 
@@ -44,9 +45,15 @@ The main aspect of the webpage is 4 information cards which provide tips to impr
 
 There is then a section for users to download their own copy of a habit tracker. The aim of this is to support the user, by offering a simple way of monitoring progress and improving mental health. 
 
-Finally, there is a footer which includes links to other helpful resources. I aimed to include resources that will help all of the four tips I outlines earlier. The NHS is a general self help page with plenty of tips. FitOn is an app with free workout videos to help encourage users to exercise. Calm is an app that has meditation resources, which helps both good sleep and a digital detox. Finally, BBC Good Food has healthy receipes to encourage a healthy diet. 
+Finally, there is a footer which includes links to other helpful resources. I aimed to include resources that will help all of the four tips I outlines earlier. The NHS is a general self help page with plenty of tips. FitOn is an app with free workout videos to help encourage users to exercise. Calm is an app that has meditation resources, which helps both good sleep and a digital detox. Finally, BBC Good Food has healthy receipes to encourage a healthy diet.  
 
 Future additions:
+
+In future, I would like to include other pages, with more information about each of the tips I included. I would also like to include even more tips, to help support people further improve their mental health. 
+
+Additionally, I would like to include more motivational quotes on the page, to encourage users and harness a sense of empowerment. I could also a self help guide for people to download as well as the habit tracker. I could also include an emergency helpline. 
+
+I would also like to include links to research papers, as I would like to reassure users that all of the recommendations are backed by science and actually work, rather than potentially just being some more clickbait that they can't trust. Also, I could include testimonials from others who have taken on this advice and how it has helped them.
 
 Known bugs:
 
