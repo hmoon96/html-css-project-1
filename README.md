@@ -13,9 +13,10 @@ The user seeks accessible, beginner-friendly information on mental health, inclu
 Site Owner’s Goal: 
 The site owner wants to create a welcoming webpage that provides basic mental health information using a clean and supportive design. The focus is on using HTML and CSS with Bootstrap to create a calming and well-organised user experience.
 
+Project Ideation:
+
 User Stories:
 
-As a new user, I want... so I can...
 As a new user, I want to learn how to make good habits, so I can stay consistent and improve my mental health.
 As a new user, I want a calming website so I can use it as a safe space if I am struggling.
 As a new user, I want easy to follow tips so I can aim to be consistent.
@@ -24,33 +25,46 @@ As a new user, I want to be able to manage stress, so I can feel more calm day t
 As the site owner, I want to teach people about habits so that mroe users download the habit tracker.
 As the site owner, I want the design of the site to be simple, so can help more people improve their mental health.
 
+Wireframes:
+
 Colour palette:
 
-* CSS HEX */
---tan: #d4b293;
---hurricane: #8b817e;
---blue-dianne: #1b3842;
---scarpa-flow: #59595b;
---pale-sky: #637883;
---bunker: #070c0e;
---gray-chateau: #97a1ac;
---shuttle-gray: #5a6a7d;
---hit-gray: #a1adb0;
---paarl: #ae5427;
+#a0bddc - Body background
+#3b4856 - Font colour
+rgba(187, 225, 241, 0.5) Header text and Habit Tracker box colour
 
+Current features:
+At the top, I included a navbar to help the user to navigate easily through the webpage. Each section has a link to the correct part of the page, and this works on all screen sizes. 
 
+I included a hero image of a some calming scenery. As the aim of the site it to try and be supportive, this could be calming for the user and set a nice tone for the rest of the webpage. The heading font was Petit Formal Script, a calligraphy style font. As fonts like this tend to be more personable and casual, I selected this as I wanted it to the user to feel at ease and in safe hands, especially as this is a self help website. 
 
-What I included:
+For the main body, I used a light blue background. Blue is supposed to be relaxing, so this was selected to evoke a sense of calm for the user. The font chosen was Quicksand, a sans serif font. This was used to embody clarity and make the main section look well put together. 
+
+The main aspect of the webpage is 4 information cards which provide tips to improve mental health. These all have an eyecatching title, a good piece of information, an image and a more information button. The image was used to offer clarity and support the user in seeing what the help was at a glance. These images have alt attributes, making them accessible. These cards adapt on different screensizes. 
+
+There is then a section for users to download their own copy of a habit tracker. The aim of this is to support the user, by offering a simple way of monitoring progress and improving mental health. 
+
+Finally, there is a footer which includes links to other helpful resources. I aimed to include resources that will help all of the four tips I outlines earlier. The NHS is a general self help page with plenty of tips. FitOn is an app with free workout videos to help encourage users to exercise. Calm is an app that has meditation resources, which helps both good sleep and a digital detox. Finally, BBC Good Food has healthy receipes to encourage a healthy diet. 
 
 Future additions:
 
 Known bugs:
 
+Testing:
+
+Deployment:
+
 AI:
 
 Acknowledgements:
 
+References:
 
-
-
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+https://www.nhs.uk/mental-health/self-help/
+https://fitonapp.com/
+https://www.bbcgoodfood.com/
+http://calm.com 
+https://designmodo.com/font-psychology/#script
+Fontawesome
+Google Fonts
+Bootstrap
