@@ -57,11 +57,15 @@ I would also like to include links to research papers, as I would like to reassu
 
 Known bugs:
 
+When the site is resized to fit a laptop screen, the cards go from being stacked on top of each other to being a 2x2 format on the page. However, they don't line up and the images look quite big.
+
 Testing:
 
 Deployment:
 
 AI:
+
+I utilised AI to create the text for my cards and habit tracker section. It also helped me a bit with the formatting.
 
 Acknowledgements:
 
