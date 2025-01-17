@@ -37,11 +37,14 @@ For my project ideation, I brainstormed a mindmap onto a piece of paper. I then 
 ### Wireframes
 I completed my wireframes on paper, so I could really sketch out where I wanted all of the features. Below are the final designs:
 
+![Mobile and tablet wierframe](../html-css-project-1/docs/wireframes/wireframe1.jpg)
+![Mobile and tablet wierframe](../html-css-project-1/docs/wireframes/wireframe2.jpg)
+
 ### Colour palette
 
-#a0bddc - Body background
-#3b4856 - Font colour
-rgba(187, 225, 241, 0.5) Header text and Habit Tracker box colour
+- `#a0bddc` - Body background
+- `#3b4856` - Font colour
+- `rgba(187, 225, 241, 0.5)` - Header text and Habit Tracker box colour
 
 ## Project Summary:
 
@@ -114,11 +117,12 @@ I utilised AI to create the text for my cards and habit tracker section. It also
 
 ### References
 
-https://www.nhs.uk/mental-health/self-help/
-https://fitonapp.com/
-https://www.bbcgoodfood.com/
-http://calm.com 
-https://designmodo.com/font-psychology/#script
-Fontawesome
-Google Fonts
-Bootstrap
+- https://www.nhs.uk/mental-health/self-help/
+- https://fitonapp.com/
+- https://www.bbcgoodfood.com/
+- http://calm.com 
+- https://designmodo.com/font-psychology/#script
+- Fontawesome
+- Google Fonts
+- Bootstrap
+- https://www.mind.org.uk/information-support/types-of-mental-health-problems/mental-health-facts-and-statistics/
